@@ -1,21 +1,25 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Outcome Unknown Is On Vacation
+date: "2019-07-07"
 ---
+I usually write these things in one sitting, but this one has taken me three days and it's probably going to be about half the length these things usually are. I'll make it up with a few extra links. It's been pretty much non-stop since we left Los Angeles. Vacations really aren't vacations when you have kids. Or maybe it's just that my kids aren't old enough for vacations to feel like vacations. As someone who requires solitary time to be a pleasant person to be around, parenting is constant when you're on vacation, even at in-laws who help out with quite a bit. It takes a village and all that. Yes, I'm getting a break from work. I deactivated my work email and work Slack on my phone, which is a true luxury, but my time alone is largely relegated to night time, after the kids are in bed. It is nice being in the mountains of Colorado though. It's a beautiful change of scenery with so much wide open space. Every time I'm here, I just want to move here or some place like it. I'm happy to be missing all the seismic activity in and around Los Angeles, which is really scary.
 
-This is my first post on my new fake blog! How exciting!
+I was brushing Ozzie's teeth the first night we were in Colorado and he started whining and crying. He whines and cries about almost everything these days, so I didn't think much of it, but this included some wincing, which was odd. After he spit most of the toothpaste out (yes we use fluoride toothpaste) and told me, "I swallowed a little bit of the toothpaste," which he does every time without fail, I looked in his mouth. He had a big sore on his tongue. I asked him if he bit his tongue and he shook his head no. I asked again just to be sure. No again. Thinking there were only a few things it could be, I checked his feet and hands for the telltale spots, which of course I found. On day one of our family vacation, Ozzie had [hand, foot and mouth disease](https://en.m.wikipedia.org/wiki/Hand,_foot,_and_mouth_disease) (a.k.a. HFMD). Our kids have had it so many times at this point. I figured we were done with it. Thankfully adults don't often get it, but as luck would have it, I started getting sores in my mouth yesterday afternoon, which makes this this second time I've had it. It hasn't stopped us from having a good time, really. I was out of commission yesterday thanks to the HFMD, but feeling better today. I hope you're enjoying your summer.
 
-I'm sure I'll write a lot more interesting things in the future.
+I don't know how people generally read the links I include, but I thought I would give you some quick advice about I read so much without boring (or scaring you) with my entire personal information management system. Yes, I have a system. Anyway, whether you're on an iOS device like an iPhone or iPad or an Android device, grab the app called [Pocket](https://getpocket.com). It allows you to save articles to read later without all the ads and other distracting stuff. 
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+The recent seismic activity is a good reminder to always be prepared for disasters, whether you live in an earthquake-prone area or not. [The government has a great web site with kit lists and advice](https://www.ready.gov/build-a-kit). [Wirecutter also has a great list](https://thewirecutter.com/reviews/emergency-preparedness/). Spend the time and money to get a basic kit together for your family and keep it up-to-date. Pre-assembled kits are a waste of money and the quality of the stuff is usually terrible. I should empty our kit out and do a whole write-up about what I've assembled. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+If you're angry and disgusted about the treatment of migrants, especially [children](https://www.motherjones.com/politics/2019/06/cbp-migrant-children-clint/), in America and you're wondering how you can help, The Texas Tribune has [a great list of organizations](https://www.texastribune.org/2018/06/18/heres-list-organizations-are-mobilizing-help-separated-immigrant-child/) that are mobilizing to help the influx of immigrants crossing the Texas-Mexico border. Pick one (or two or three) and throw them some money.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+While I won't be encouraging my kids to do so, if you have a kid that likes to eat their boogers, [research suggests it has some benefits](https://www.telegraph.co.uk/science/2017/05/05/eating-bogies-good-teeth-overall-health-scientists-conclude/).
+
+[It's expensive to raise kids in America](https://www.marketwatch.com/story/these-5-charts-show-how-expensive-it-is-to-raise-children-today-2018-03-29). No shit.
+
+The idea that [parents are hiring coaches to help raise phone-free kids](https://www.nytimes.com/2019/07/06/style/parenting-coaches-screen-time-phones.html) is so insane to me, but it's apparently a thing.
+
+[Reminding kids of their multi-faceted roles can lead to better problem-solving and more flexible thinking](https://www.futurity.org/reminders-children-roles-flexible-thinking-2099002-2/). This was particularly interesting research and made a lot of logical sense to me.
+
+Just a reminder that [swimming pools are full of insanely gross bacteria](https://www.cdc.gov/mmwr/volumes/68/wr/mm6825a3.htm) that can make you and your kids really sick. 
+
+[Esther Wojcicki knows a think or two about how to raise kids](https://amzn.to/2XyRG0X). She's not only a celebrated educator, but the mom of three of brilliant women.
