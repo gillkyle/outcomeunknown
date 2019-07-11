@@ -8,13 +8,11 @@ If you want to help, there are a couple of ways you can contribute. You can tell
 
 Here are a few reads to get you started.  
 
-[The Learning Myth: Why I'll Never Tell My Son He's Smart](http://www.huffingtonpost.com/salman-khan/the-learning-myth-why-ill_b_5691681.html?1408465176)  
-
+[The Learning Myth: Why I'll Never Tell My Son He's Smart](http://www.huffingtonpost.com/salman-khan/the-learning-myth-why-ill_b_5691681.html?1408465176)
 Sal Khan, creator of Khan Academy, explains why making mistakes doing difficult tasks rather than repeatedly having success with easy ones helps to grow not only the brain of your little ones, but also your own.
 
 [How To Turn Every Child Into A “Math Person”](http://qz.com/245054/how-to-turn-every-child-into-a-math-person/)
 Miles Kimball, economics professor at the University of Michigan, refutes the idea that your math skills are determined at birth and how you can nurture a love of math.  
 
-[The Importance of Eating Together](http://www.theatlantic.com/health/archive/2014/07/the-importance-of-eating-together/374256/?single_page=true)  
-
+[The Importance of Eating Together](http://www.theatlantic.com/health/archive/2014/07/the-importance-of-eating-together/374256/?single_page=true)
 Cody C. Delistraty explains why preparing and eating together as a family can positively impact health, bring families closer and teach children to be more tolerant and accepting of differences. Our pediatrician also told us to share meals as much as we possibly can.
