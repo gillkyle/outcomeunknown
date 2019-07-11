@@ -3,7 +3,7 @@ title: Outcome Unknown Will Not Let You Fail
 date: "2014-08-31"
 ---
 
-![](/outcome-unknown-will-not-let-you-fail/not-a-subscriber.jpg)
+![](./outcome-unknown-will-not-let-you-fail/not-a-subscriber.jpg)
 Clearly this guy isn't an Outcome Unknown subscriber
 
 [Global Parenting Habits That Haven't Caught On In The U.S.](http://www.npr.org/blogs/parallels/2014/08/12/339825261/global-parenting-habits-that-havent-caught-on-in-the-u-s)  
