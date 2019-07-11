@@ -1,6 +1,6 @@
 ---
 title: Outcome Unknown
-date: "2014-08-24”
+date: "2014-08-24"
 ---
 My friend Pramit and I send a lot of good articles for parents to one another. Many times I end up sending them on to other parents (like you). While Cassidy was down for a nap today, Pramit and I hatched the idea of starting a weekly newsletter with 3-5 links to good articles we've read recently. We're calling it Outcome Unknown. We figured this would be a better way to share those links to a wider audience and maybe discover some new ones from our friends.  
 
